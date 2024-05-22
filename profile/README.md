@@ -21,5 +21,5 @@ Follow us on our social networks!
 🐥 Twitter/X : https://twitter.com/enixsas  
 😸 GitHub : https://github.com/enix  
 🐘 Mastodon : https://cloud-native.social/@enix  
-💫 Web : https://enix.io/fr/  
+💫 Web : https://enix.io/en/  
 </div>
