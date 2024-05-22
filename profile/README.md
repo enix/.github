@@ -1,6 +1,6 @@
 # Enix.io
 
-![Enix' monkey header](https://github.com/enix/.github/raw/main/profile/monkey-header.svg)
+![Enix' monkey header](https://github.com/enix/.github/raw/main/profile/monkey-header.png)
 ### About Enix.io
 <div align="justify">
 Enix is a French company specializing in the design, hosting, and management of modern and tailor-made IT infrastructures.
