@@ -1,4 +1,4 @@
-![Enix' monkey header](https://github.com/enix/.github/raw/main/profile/monkey-header.png)
+![Enix' monkey header](https://github.com/enix/.github/raw/main/profile/monkey-header.jpg)
 ### About Enix.io
 <div align="justify">
 
