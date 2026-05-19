@@ -8,7 +8,5 @@ Whether platforms are hosted on-premises, on our Enix infrastructure, or on a th
 As open-source and cloud native enthusiasts, we actively contribute to the tech community by sharing tools we develop and believe can benefit many, especially for Kubernetes environments with x509 exporter or kube-image-keeper. You can support these tools by giving us a star on GitHub! :)
   
 ➡️ LinkedIn : https://www.linkedin.com/company/enix-sas/  
-🐥 Twitter/X : https://twitter.com/enixsas  
-🐘 Mastodon : https://cloud-native.social/@enix  
 💫 Web : https://enix.io/en/  
 </div>
